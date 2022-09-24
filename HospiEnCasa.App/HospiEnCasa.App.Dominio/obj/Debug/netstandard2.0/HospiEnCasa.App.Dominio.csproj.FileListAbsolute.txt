@@ -1,0 +1,9 @@
+C:\Users\jhonb\OneDrive\Escritorio\TIC\CICLO 3\DESARROLLO DE SOFTWARE- 3\PROGRAMACIÒN\G45\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.0\HospiEnCasa.App.Dominio.csprojAssemblyReference.cache
+C:\Users\jhonb\OneDrive\Escritorio\TIC\CICLO 3\DESARROLLO DE SOFTWARE- 3\PROGRAMACIÒN\G45\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.0\HospiEnCasa.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\jhonb\OneDrive\Escritorio\TIC\CICLO 3\DESARROLLO DE SOFTWARE- 3\PROGRAMACIÒN\G45\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.0\HospiEnCasa.App.Dominio.AssemblyInfo.cs
+C:\Users\jhonb\OneDrive\Escritorio\TIC\CICLO 3\DESARROLLO DE SOFTWARE- 3\PROGRAMACIÒN\G45\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.0\HospiEnCasa.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\jhonb\OneDrive\Escritorio\TIC\CICLO 3\DESARROLLO DE SOFTWARE- 3\PROGRAMACIÒN\G45\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\bin\Debug\netstandard2.0\HospiEnCasa.App.Dominio.deps.json
+C:\Users\jhonb\OneDrive\Escritorio\TIC\CICLO 3\DESARROLLO DE SOFTWARE- 3\PROGRAMACIÒN\G45\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\bin\Debug\netstandard2.0\HospiEnCasa.App.Dominio.dll
+C:\Users\jhonb\OneDrive\Escritorio\TIC\CICLO 3\DESARROLLO DE SOFTWARE- 3\PROGRAMACIÒN\G45\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\bin\Debug\netstandard2.0\HospiEnCasa.App.Dominio.pdb
+C:\Users\jhonb\OneDrive\Escritorio\TIC\CICLO 3\DESARROLLO DE SOFTWARE- 3\PROGRAMACIÒN\G45\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.0\HospiEnCasa.App.Dominio.dll
+C:\Users\jhonb\OneDrive\Escritorio\TIC\CICLO 3\DESARROLLO DE SOFTWARE- 3\PROGRAMACIÒN\G45\Hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Dominio\obj\Debug\netstandard2.0\HospiEnCasa.App.Dominio.pdb
